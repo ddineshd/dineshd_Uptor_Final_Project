@@ -1,1 +1,3 @@
-# dineshd_Uptor_Final_Project
+Name : Dinesh D
+Email : thousandfivehundred@gmail.com
+Registration Id No. :  2921
